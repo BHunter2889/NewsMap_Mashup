@@ -1,0 +1,6 @@
+#NewsMap Mashup
+
+This is an example of some of my work in Javascript using bootstrap, typeahead, jQuery,
+and underscore. This also contains my own PHP CSV parser and database insertion, HTML, and CSS.
+
+##License relating to this code is viewable under the vendor directory chain and is included in the header of the CS50.php Library.
